@@ -1,4 +1,4 @@
-# proyecto_1
+# Proyecto Software
 Catalogo de repuestos
 # Catalogo de repuestos de automoviles
 
